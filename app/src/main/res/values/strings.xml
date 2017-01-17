@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">"testing "</string>
+    <string name="title_activity_another">another</string>
+    <string name="useless_button_name">"This Button Does Nothing"</string>
 </resources>
